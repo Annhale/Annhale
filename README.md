@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm Ann.
+✨Welcome to my board✨
 <!--
 **Annhale/Annhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
